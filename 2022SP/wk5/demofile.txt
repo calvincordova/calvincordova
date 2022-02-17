@@ -1,0 +1,5 @@
+This is a new line!
+This is a second line added to demofile.txt!
+This is another line, I can append more lines with fa
+This is a second line added to demofile.txt!
+This is another line, I can append more lines with the fa variable!
